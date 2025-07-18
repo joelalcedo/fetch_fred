@@ -1,0 +1,16 @@
+# dune exec bin/main.exe UNRATE
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/joelalcedo/.cache/dune/db
+# Workspace root: /Users/joelalcedo/Documents/development/fetch_fred
+# Auto-detected concurrency: 14
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/joelalcedo/.opam/5.2.0/bin/ocamlc.opt -config > /var/folders/_x/tgml8dxj6yxc0stwl52p7mf40000gn/T/dune_74ae6c_output

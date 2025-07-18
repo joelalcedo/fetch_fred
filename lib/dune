@@ -1,0 +1,3 @@
+(library
+ (name fred)
+ (libraries core cohttp-lwt-unix yojson lwt.unix))

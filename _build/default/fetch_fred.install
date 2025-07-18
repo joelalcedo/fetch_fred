@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/fetch_fred/META"
+  "_build/install/default/lib/fetch_fred/dune-package"
+  "_build/install/default/lib/fetch_fred/opam"
+]
+bin: [
+  "_build/install/default/bin/fetch_fred"
+]

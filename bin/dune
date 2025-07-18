@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name fetch_fred)
+ (libraries fred core cohttp-lwt-unix yojson lwt.unix))
