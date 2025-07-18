@@ -2,4 +2,4 @@ A program that allows you to fetch data from FRED by specifying the ticker. Requ
 
 
 Example CLI Usage:
-<img width="1762" height="372" alt="image" src="https://github.com/user-attachments/assets/c57dd423-0335-439f-9dee-270f98e4dfc1" />
+<img width="1762" height="372" alt="image" src="https://github.com/user-attachments/assets/046c7d9b-47af-452e-8f37-9b34fdda6adf" />
